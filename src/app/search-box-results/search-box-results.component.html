@@ -1,0 +1,10 @@
+<ng-container *ngIf="usersList && usersList.length > 0">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2 user" *ngFor="let user of usersList">
+                <img src="{{user.avatar_url}}" />
+            </div>
+        </div>        
+    </div>    
+</ng-container>
+
