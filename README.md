@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
-![searchbox_value](searchbox_value.png)
+![github_users](github_users.png)
 
 ## Github API URL
 ```
