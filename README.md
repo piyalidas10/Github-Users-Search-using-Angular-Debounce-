@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
+# Live URL
+```
+https://piyalidas10.github.io/angular-search-bar/
+```
+
 ![github_users](github_users.png)
 
 ## Github API URL
